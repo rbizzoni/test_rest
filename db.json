@@ -1,17 +1,17 @@
 {
   "deploy": [
     {
-      "uuid": 1,
+      "id": 1,
       "name": "VM_Ubuntu",
       "status": "wait"
     },
     {
-      "uuid": 2,
+      "id": 2,
       "name": "Firewall",
       "status": "started"
     },
     {
-      "uuid": 3,
+      "id": 3,
       "name": "Centos7",
       "status": "stopped"
     }
