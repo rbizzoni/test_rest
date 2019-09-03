@@ -2,17 +2,17 @@
   "deploy": [
     {
       "uuid": 1,
-      "name": "VM_Ubuntu"
+      "name": "VM_Ubuntu",
       "status": "wait"
     },
     {
       "uuid": 2,
-      "name": "Firewall"
+      "name": "Firewall",
       "status": "started"
     },
     {
       "uuid": 3,
-      "name": "Centos7"
+      "name": "Centos7",
       "status": "stopped"
     }
   ],
