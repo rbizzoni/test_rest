@@ -4,6 +4,11 @@
       "uuid": 1,
       "name": "VM_Ubuntu",
       "status": "wait"
+    },
+    {
+      "uuid": 2,
+      "name": "VM_Ubuntu",
+      "status": "wait"
     }
   ],
   "profile": {
