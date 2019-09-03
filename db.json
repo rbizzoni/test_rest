@@ -3,7 +3,7 @@
     {
       "uuid": 1,
       "name": "VM_Ubuntu",
-      "status": "wait"
+      "status": "started"
     },
     {
       "uuid": 2,
