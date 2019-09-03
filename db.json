@@ -1,19 +1,9 @@
 {
-  "deploy": [
+  "posts": [
     {
       "id": 1,
       "name": "VM_Ubuntu",
       "status": "wait"
-    },
-    {
-      "id": 2,
-      "name": "Firewall",
-      "status": "started"
-    },
-    {
-      "id": 3,
-      "name": "Centos7",
-      "status": "stopped"
     }
   ],
   "profile": {
