@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "deploy": [
     {
       "uuid": 1,
       "name": "VM_Ubuntu",
@@ -7,8 +7,13 @@
     },
     {
       "uuid": 2,
-      "name": "VM_Ubuntu",
-      "status": "wait"
+      "name": "Firewall",
+      "status": "started"
+    },
+    {
+      "uuid": 3,
+      "name": "Centos",
+      "status": "stopped"
     }
   ],
   "profile": {
