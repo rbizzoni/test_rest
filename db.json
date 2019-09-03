@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "uuid": 1,
       "name": "VM_Ubuntu",
       "status": "wait"
     }
