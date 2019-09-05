@@ -3,20 +3,20 @@
     {
       "uuid": 1,
       "name": "VM_Ubuntu",
-      "Ip": "192.168.0.14",
-      "Status": "OK"
+      "ip": "192.168.0.14",
+      "status": "OK"
     },
     {
       "uuid": 2,
       "name": "Firewall",
-      "Ip": "192.168.0.21",
-      "Status": "ON"
+      "ip": "192.168.0.21",
+      "status": "ON"
     },
     {
       "uuid": 3,
       "name": "Centos",
-      "Ip": "192.168.0.17",
-      "Status": "OFF"
+      "ip": "192.168.0.17",
+      "status": "OFF"
     }
   ],
   "profile": {
